@@ -3,8 +3,8 @@
 | Group Members | Member Student ID |
 | ------------- | ----------------- |
 | Syed Sohaib   | 62836             |
-| Minhal Naqvi  |                   |
-| Saif Ali      |                   |
+| Minhal Naqvi  | 63802             |
+| Saif Ali      | 63342             |
 
 
 # ***About Syed Sohaib Ahmed :***
